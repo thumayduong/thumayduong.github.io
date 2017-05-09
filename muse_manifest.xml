@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thumayduong.github.io" resolutions="1x" timestamp="1494336841979">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thumayduong.github.io" resolutions="1x" timestamp="1494336960779">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="untitled-2.css" crc="364520085" ref="untitled-2"/>
